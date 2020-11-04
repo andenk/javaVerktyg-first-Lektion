@@ -1,1 +1,44 @@
 txt från nya branchen
+$ git log
+commit 87bd9b549e24bc57749a439315490b38b3d59c75 (HEAD -> main, origin/branchone, branchone)
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Wed Nov 4 09:55:51 2020 +0100
+
+    bOne
+
+commit 2765ab2d5db3ad5adf6142301d22a94ff0fba646
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Wed Nov 4 09:37:08 2020 +0100
+
+    D
+
+commit 0e29b172603bf42b68397cd719917237d60e18b4
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Thu Oct 29 10:34:44 2020 +0100
+
+    Readme
+
+commit 5ea54c1f5df7000f6bedeff81442e6707fca95b1
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Mon Oct 26 14:40:12 2020 +0100
+
+    four
+
+commit 01ed774de73da8365158bae3cf91e2ced6dcf973
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Mon Oct 26 14:21:42 2020 +0100
+
+    tre
+
+commit 1cdffaacc928e098460ec044608c1bbc99cdcedc
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Mon Oct 26 14:18:23 2020 +0100
+
+    andra
+
+commit 1263e3f2d742cb77e4e222647475757134f5aa37
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Mon Oct 26 14:03:25 2020 +0100
+
+    firstLekton
+
