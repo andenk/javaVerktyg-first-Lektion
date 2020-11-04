@@ -1,10 +1,39 @@
-txt från nya branchen
-$ git log
-commit 87bd9b549e24bc57749a439315490b38b3d59c75 (HEAD -> main, origin/branchone, branchone)
+commit 2d129d72e0b9b4f55ee1a8fd8ee63b250ae81a82 (HEAD -> main)
+Merge: 1095af5 a5c227d
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Wed Nov 4 10:17:06 2020 +0100
+
+    Same c
+
+commit 1095af5b3e23063731b130e1a3ee0182a2a8d8c4
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Wed Nov 4 10:12:14 2020 +0100
+
+    Readme
+
+commit 1b4c2e97742c0d79e97f851d20f868892820deb5
+Author: andreas nehl <andenk@hotmail.se>
+Date:   Wed Nov 4 10:04:11 2020 +0100
+
+    GIT LOG
+
+commit 87bd9b549e24bc57749a439315490b38b3d59c75 (origin/branchone, branchone)
 Author: andreas nehl <andenk@hotmail.se>
 Date:   Wed Nov 4 09:55:51 2020 +0100
 
     bOne
+
+commit a5c227d9c31a270b77d22458ea8de240af13bd78 (origin/main)
+Author: andenk <andenk@hotmail.se>
+Date:   Wed Nov 4 09:48:11 2020 +0100
+
+    Create .gitignore
+
+commit 34afa09760aa2b59cf70de51717754b4bf87f043
+Author: andenk <andenk@hotmail.se>
+Date:   Wed Nov 4 09:42:27 2020 +0100
+
+    Create README.md
 
 commit 2765ab2d5db3ad5adf6142301d22a94ff0fba646
 Author: andreas nehl <andenk@hotmail.se>
@@ -41,4 +70,4 @@ Author: andreas nehl <andenk@hotmail.se>
 Date:   Mon Oct 26 14:03:25 2020 +0100
 
     firstLekton
-
+(END)
